@@ -58,7 +58,7 @@ step 6:-
    >set FLASK_APP=ASG01.py
    >flask run
  -  In order to see the Output , type the following URI on web browser
-     http://127.0.0.1:5000/
+ -    http://127.0.0.1:5000/
  - URI will direct you to on web page where you will see the option to Insert a data in mongodb and view the data
  - Inorder to insert a data into mongo db , you have option to upload file data such as .csv and .json file data
  Note : .csv and .json file must be in the same directory where your ASG01.py file is their.
@@ -70,9 +70,9 @@ step 6:-
   - Only get request is accepted on this app
   - access and TEST the API, you can type on POSTMAN or Web Browser following  URI
       http://127.0.0.1:5000/getData
-  Output :- you will get response in json formate 
+  - Output :- you will get response in json formate 
   
   
  Note :-
-        1> Assignment 1 :- AS01.py
-        2> Assignment 2 :- ASG02_REST_API.py
+     -   1> Assignment 1 :- AS01.py
+     -   2> Assignment 2 :- ASG02_REST_API.py
