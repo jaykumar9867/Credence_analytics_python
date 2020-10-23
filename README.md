@@ -1,7 +1,7 @@
 # Using Flask and python
 
-# 1 > Store data in MongoDB. Retrieve it using Python and Flask  - ASG01.py
-# 2 > Create an endpoint in Python to pass on that data to the front-end i.e. create an API (Service) - ASG02_REST_API.py
+- 1 > Store data in MongoDB. Retrieve it using Python and Flask  - ASG01.py
+- 2 > Create an endpoint in Python to pass on that data to the front-end i.e. create an API (Service) - ASG02_REST_API.py
 
 # Step 1:- 
 - Create an environment
@@ -61,7 +61,7 @@ $ pip install pandas
  -    http://127.0.0.1:5000/
  - URI will direct you to on web page where you will see the option to Insert a data in mongodb and view the data
  - Inorder to insert a data into mongo db , you have option to upload file data such as .csv and .json file data
- # Note : .csv and .json file must be in the same directory where your ASG01.py file is their.
+ -  Note : .csv or .json file must be in directory in which your ASG01.py file is located
    
   -> for ASG02_REST_API.py
    > set FLASK_APP=ASG02_REST_API.py
